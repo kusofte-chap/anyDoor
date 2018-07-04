@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kusofte-chap/anyDoor#readme",
   "dependencies": {
+    "chalk": "^2.4.1",
     "pre-commit": "^1.2.2"
   },
   "standard": {

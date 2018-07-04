@@ -65,5 +65,4 @@ npm-debug.log*
 *.swp
 .idea/
 *.eslintrc.js
-*.package-lock.json
-*.package.json
+*.gitignore
